@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Employee.Core.Application.Abstraction/1.0.0": {
+        "dependencies": {
+          "Employee.Core.Domin": "1.0.0"
+        },
+        "runtime": {
+          "Employee.Core.Application.Abstraction.dll": {}
+        }
+      },
+      "Employee.Core.Domin/1.0.0": {
+        "runtime": {
+          "Employee.Core.Domin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee.Core.Application.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employee.Core.Domin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

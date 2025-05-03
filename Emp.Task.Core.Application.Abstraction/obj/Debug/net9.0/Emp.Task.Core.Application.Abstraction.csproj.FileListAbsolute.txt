@@ -1,0 +1,12 @@
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Emp.Task.Core.Application.Abstraction.deps.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Emp.Task.Core.Application.Abstraction.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Emp.Task.Core.Application.Abstraction.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Emp.Task.Core.Application.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Emp.Task.Core.Application.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Emp.Task.Core.Application.Abstraction.AssemblyInfo.cs
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Emp.Task.Core.Application.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Emp.Task.Core.Application.Abstraction.sourcelink.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Emp.Task.Core.Application.Abstraction.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\refint\Emp.Task.Core.Application.Abstraction.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Emp.Task.Core.Application.Abstraction.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\ref\Emp.Task.Core.Application.Abstraction.dll

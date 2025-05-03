@@ -1,0 +1,16 @@
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Employee.Core.Application.Abstraction.deps.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Employee.Core.Application.Abstraction.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Employee.Core.Application.Abstraction.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.AssemblyInfo.cs
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.sourcelink.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\refint\Employee.Core.Application.Abstraction.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\ref\Employee.Core.Application.Abstraction.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Employee.Core.Domin.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\bin\Debug\net9.0\Employee.Core.Domin.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.Core.Application.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application.Abstraction\obj\Debug\net9.0\Employee.BBDF8FFD.Up2Date

@@ -1,0 +1,12 @@
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\bin\Debug\net9.0\Emp.Task.Core.Application.deps.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\bin\Debug\net9.0\Emp.Task.Core.Application.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\bin\Debug\net9.0\Emp.Task.Core.Application.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\Emp.Task.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\Emp.Task.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\Emp.Task.Core.Application.AssemblyInfo.cs
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\Emp.Task.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\Emp.Task.Core.Application.sourcelink.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\Emp.Task.Core.Application.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\refint\Emp.Task.Core.Application.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\Emp.Task.Core.Application.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Core.Application\obj\Debug\net9.0\ref\Emp.Task.Core.Application.dll

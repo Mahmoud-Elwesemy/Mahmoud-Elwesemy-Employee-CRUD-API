@@ -1,0 +1,16 @@
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\bin\Debug\net9.0\Emp.Task.Infrastructure.Presistence.deps.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\bin\Debug\net9.0\Emp.Task.Infrastructure.Presistence.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\bin\Debug\net9.0\Emp.Task.Infrastructure.Presistence.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\bin\Debug\net9.0\Emp.Task.Core.Domin.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\bin\Debug\net9.0\Emp.Task.Core.Domin.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.csproj.AssemblyReference.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.AssemblyInfoInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.AssemblyInfo.cs
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.csproj.CoreCompileInputs.cache
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.sourcelink.json
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.070FC9A1.Up2Date
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\refint\Emp.Task.Infrastructure.Presistence.dll
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\Emp.Task.Infrastructure.Presistence.pdb
+C:\Users\Weso\Desktop\Emp-Task\Employee.Task\Emp.Task.Infrastructure.Presistence\obj\Debug\net9.0\ref\Emp.Task.Infrastructure.Presistence.dll
